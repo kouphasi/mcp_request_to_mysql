@@ -1,0 +1,28 @@
+{
+  "name": "mcp_request_to_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouphasi/mcp_request_to_mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouphasi/mcp_request_to_mysql/issues"
+  },
+  "homepage": "https://github.com/kouphasi/mcp_request_to_mysql#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.1",
+    "zod": "^3.24.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "typescript": "^5.8.3"
+  }
+}
